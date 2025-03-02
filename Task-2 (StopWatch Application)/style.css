@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin: 50px;
+}
+.stopwatch {
+    background: #03f5a08a;
+    padding: 50px;
+    /* height: 100px; */
+    border-radius: 10px;
+    display: inline-block;
+    box-shadow: 15px 16px 13px rgba(0.1, 0, 0, 0.1);
+    
+}
+#display {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+button {
+    margin: 5px;
+    padding: 10px 15px;
+    border-radius: 15px;
+    font-size: 1em;
+    cursor: pointer;
+}
+.laps {
+    margin-top: 20px;
+    text-align: left;
+}
